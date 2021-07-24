@@ -3,6 +3,7 @@ import { CantContainWhitespace, CantStartNumber, MinimumLengthLimit } from './co
 import { AnyObject } from './types';
 import { TextField, PasswordField, AddressField } from './views';
 
+// test
 export default class App {
   template = template;
   data: AnyObject;
